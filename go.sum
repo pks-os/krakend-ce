@@ -193,7 +193,7 @@ github.com/cloudwego/base64x v0.1.4/go.mod h1:0zlkT4Wn5C6NdauXdJRhSKRlJvmclQ1hhJ
 github.com/cloudwego/iasm v0.2.0 h1:1KNIy1I1H9hNNFEEH3DVnI4UujN+1zjpuk6gwHLTssg=
 github.com/cloudwego/iasm v0.2.0/go.mod h1:8rXZaNYT2n95jn+zTI1sDr+IgcD2GVs0nlbbQPiEFhY=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
-github.com/cpuguy83/go-md2man/v2 v2.0.3/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
+github.com/cpuguy83/go-md2man/v2 v2.0.4/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc h1:U9qPSI2PIWSS1VwoXQT9A3Wy9MM3WgvqSxFWenqJduM=
@@ -486,8 +486,8 @@ github.com/krakendio/krakend-cel/v2 v2.0.1 h1:7qRPelchTia94O7cY3fHSH8CUWxm9Z1KIz
 github.com/krakendio/krakend-cel/v2 v2.0.1/go.mod h1:TuOf89sSyRkpQWjSoEOTDjWpWDJlUccSF2i58QBmfSA=
 github.com/krakendio/krakend-circuitbreaker/v2 v2.0.1 h1:rX5TAbdQa+mISIULDxYdviR7/7yOYCjSimuaXJHFrUA=
 github.com/krakendio/krakend-circuitbreaker/v2 v2.0.1/go.mod h1:PCbRQGfUOToK2Uw48gm9rZ8Mzb4qLGZnX4876Fu9CpQ=
-github.com/krakendio/krakend-cobra/v2 v2.4.2 h1:pkNgmgrRD+ziQwYJ89ji3fGL/tVwffEmIT/CjlelDRE=
-github.com/krakendio/krakend-cobra/v2 v2.4.2/go.mod h1:UluR1IW7XM/pkfYMcRXYaED7riaOnK5YSUDZXpwCOXs=
+github.com/krakendio/krakend-cobra/v2 v2.5.0 h1:w2EVsQxoexUTTzDwv1n+/JT5cQgV7GdqrZqgVgkMhhc=
+github.com/krakendio/krakend-cobra/v2 v2.5.0/go.mod h1:DynOF7SjLbzFdQLn+GWLziMGXd/075vjgWhKvuOEVBM=
 github.com/krakendio/krakend-cors/v2 v2.1.1 h1:C+7GHwt/47pNGIuw5Ua4s+B5REIql/yqgZkYTY4QSTw=
 github.com/krakendio/krakend-cors/v2 v2.1.1/go.mod h1:V8T2CmOrDm9+ZhopV17FabGAFQUss69PntQ8KZXpfUY=
 github.com/krakendio/krakend-flexibleconfig/v2 v2.2.0 h1:8WjaZekJyoPQTHHjDAOJrlRv0ZWoVLVXvObyd5bj8gc=
@@ -510,8 +510,8 @@ github.com/krakendio/krakend-lambda/v2 v2.0.3 h1:r4MoR5+5BFACmQ1iYjdhJjlJBev889q
 github.com/krakendio/krakend-lambda/v2 v2.0.3/go.mod h1:LH9pjG19stIeLLmaE5YKgjvbGJ7Da1pHw9g7cPTTGSg=
 github.com/krakendio/krakend-logstash/v2 v2.0.2 h1:1C0F/mZlr9Alj/HyjUyG/bTK8PhJM3Pv9/EXef83PFQ=
 github.com/krakendio/krakend-logstash/v2 v2.0.2/go.mod h1:buiQqKl5Dqv8qjzn4UT2G+bc6iFNYMrMRLK2AGGSaeU=
-github.com/krakendio/krakend-lua/v2 v2.5.0 h1:Fr94rbqf5AX2FYHl6Vw0BbdILyrqxR7uoW/fd2HYg5Y=
-github.com/krakendio/krakend-lua/v2 v2.5.0/go.mod h1:I175sL2ujD2PNDlEUUM59r7+xEOHQxWzqtrbtC6qyeY=
+github.com/krakendio/krakend-lua/v2 v2.5.1 h1:UDcRdZv4n7EksShSihnkJQN1Xw9Cr/em7fzmo2B2yG0=
+github.com/krakendio/krakend-lua/v2 v2.5.1/go.mod h1:MxpmpjD15nILY9QB0q4Vl6BIJGoElYeqE94qHleiATo=
 github.com/krakendio/krakend-martian/v2 v2.0.2 h1:jUbrRfVY9TjPGk6Tnf7pvR76OMEB7DI9NMibU1DBsEo=
 github.com/krakendio/krakend-martian/v2 v2.0.2/go.mod h1:CJ0r8fwPNHXObclDqjR2iuUrT21PRg31SPFVXhdBlHM=
 github.com/krakendio/krakend-metrics/v2 v2.0.1 h1:BFGsbw/Qghfw0OD2+fFRcyavuHWwp78KAnAw9gyzpzQ=
@@ -536,8 +536,8 @@ github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0
 github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+fNqagV/RAw=
 github.com/leodido/go-urn v1.4.0 h1:WT9HwE9SGECu3lg4d/dIA+jxlljEa1/ffXKmRjqdmIQ=
 github.com/leodido/go-urn v1.4.0/go.mod h1:bvxc+MVxLKB4z00jd1z+Dvzr47oO32F/QSNjSBOlFxI=
-github.com/luraproject/lura/v2 v2.8.0 h1:6Dzf8LZHUKq+5Z/UmwGhjaorNINbFHhqiuVYOccmCPo=
-github.com/luraproject/lura/v2 v2.8.0/go.mod h1:2KAK+oKW3aGZNb4ys7Z2LHcoeCrqGlqRSCU7BrHjrbU=
+github.com/luraproject/lura/v2 v2.9.0 h1:JeqlrUz0wM4ITVHOtEaFJ5sS6TW25/lTDmMCsQUY44U=
+github.com/luraproject/lura/v2 v2.9.0/go.mod h1:pJQDsCSSrE5udlzkLvUnFkdrqeQ+jDO1ZIzsx6jgLtk=
 github.com/lyft/protoc-gen-validate v0.0.13/go.mod h1:XbGvPuh87YZc5TdIa2/I4pLk0QoUACkjt2znoq26NVQ=
 github.com/magiconair/properties v1.8.7 h1:IeQXZAiQcpL9mgcAe1Nu6cX9LLw6ExEHKjN0VQdvPDY=
 github.com/magiconair/properties v1.8.7/go.mod h1:Dhd985XPs7jluiymwWYZ0G4Z61jb3vdS329zhj2hYo0=
@@ -663,8 +663,8 @@ github.com/rs/cors/wrapper/gin v0.0.0-20240515105523-1562b1715b35/go.mod h1:742I
 github.com/russross/blackfriday/v2 v2.1.0/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
 github.com/ryanuber/go-glob v1.0.0 h1:iQh3xXAumdQ+4Ufa5b25cRpC5TYKlno6hsv6Cb3pkBk=
 github.com/ryanuber/go-glob v1.0.0/go.mod h1:807d1WSdnB0XRJzKNil9Om6lcp/3a0v4qIHxIXzX/Yc=
-github.com/santhosh-tekuri/jsonschema/v5 v5.0.0 h1:TToq11gyfNlrMFZiYujSekIsPd9AmsA2Bj/iv+s4JHE=
-github.com/santhosh-tekuri/jsonschema/v5 v5.0.0/go.mod h1:FKdcjfQW6rpZSnxxUvEA5H/cDPdvJ/SZJQLWWXWGrZ0=
+github.com/santhosh-tekuri/jsonschema/v6 v6.0.1 h1:PKK9DyHxif4LZo+uQSgXNqs0jj5+xZwwfKHgph2lxBw=
+github.com/santhosh-tekuri/jsonschema/v6 v6.0.1/go.mod h1:JXeL+ps8p7/KNMjDQk3TCwPpBy0wYklyWTfbkIzdIFU=
 github.com/shopspring/decimal v1.2.0/go.mod h1:DKyhrW/HYNuLGql+MJL6WCR6knT2jwCFRcu2hWCYk4o=
 github.com/shopspring/decimal v1.3.1 h1:2Usl1nmF/WZucqkFZhnfFYxxxu8LG21F6nPQBE5gKV8=
 github.com/shopspring/decimal v1.3.1/go.mod h1:DKyhrW/HYNuLGql+MJL6WCR6knT2jwCFRcu2hWCYk4o=
@@ -678,8 +678,8 @@ github.com/spf13/afero v1.11.0/go.mod h1:GH9Y3pIexgf1MTIWtNGyogA5MwRIDXGUr+hbWNo
 github.com/spf13/cast v1.3.1/go.mod h1:Qx5cxh0v+4UWYiBimWS+eyWzqEqokIECu5etghLkUJE=
 github.com/spf13/cast v1.6.0 h1:GEiTHELF+vaR5dhz3VqZfFSzZjYbgeKDpBxQVS4GYJ0=
 github.com/spf13/cast v1.6.0/go.mod h1:ancEpBxwJDODSW/UG4rDrAqiKolqNNh2DX3mk86cAdo=
-github.com/spf13/cobra v1.8.0 h1:7aJaZx1B85qltLMc546zn58BxxfZdR/W22ej9CFoEf0=
-github.com/spf13/cobra v1.8.0/go.mod h1:WXLWApfZ71AjXPya3WOlMsY9yMs7YeiHhFVlvLyhcho=
+github.com/spf13/cobra v1.8.1 h1:e5/vxKd/rZsfSJMUX1agtjeTDf+qv1/JdBF8gg5k9ZM=
+github.com/spf13/cobra v1.8.1/go.mod h1:wHxEcudfqmLYa8iTfL+OuZPbBZkmvliBWKIezN3kD9Y=
 github.com/spf13/jwalterweatherman v1.1.0 h1:ue6voC5bR5F8YxI5S67j9i582FU4Qvo2bmqnqMYADFk=
 github.com/spf13/jwalterweatherman v1.1.0/go.mod h1:aNWZUN0dPAAO/Ljvb5BEdw96iTZ0EXowPYD95IqWIGo=
 github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
